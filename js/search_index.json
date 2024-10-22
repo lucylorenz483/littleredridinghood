@@ -1,1 +1,1 @@
-{"version":"2.3.9","fields":["t","b","k"],"fieldVectors":[["t/d1e3",[0,0.288]],["b/d1e3",[]],["k/d1e3",[]]],"invertedIndex":[["index",{"_index":0,"t":{"d1e3":{}},"b":{},"k":{}}]],"pipeline":["stemmer"]}
+{"version":"2.3.9","fields":["t","b","k"],"fieldVectors":[["t/d1e3",[0,0.288]],["b/d1e3",[]],["k/d1e3",[]]],"invertedIndex":[["rapunzel",{"_index":0,"t":{"d1e3":{}},"b":{},"k":{}}]],"pipeline":["stemmer"]}
