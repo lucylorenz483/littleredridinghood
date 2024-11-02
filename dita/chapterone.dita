@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Chapter 1: The Basket </title>
-    <body>
-        <p>Red riding hood sets out to make a basket of food for her grandmother. Then sets off to
-            her grandmothers house. </p>
+    <title class="- topic/title ">Little Red Riding Hood </title>
+    <shortdesc class="- topic/shortdesc ">Red riding hood sets out to make a basket of food for her
+        grandmother. Then sets off to her grandmothers house. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <section id="section_ehw_t5d_ddc">
+            <title>Introduction</title>
+            <p>Once upon a time there was a little girl named Red. She lived with her mother right
+                outside of the woods. This little girl was loved by everyone but her grandmother
+                loved her most of all.</p>
+        </section>
+        <section id="section_qwn_v5d_ddc">
+            <title>Chapter 1: Grandma is Sick </title>
+            <fig id="fig_gzk_2cc_gdc">
+                <title>Little Red Riding Hood's Basket</title>
+                <image href="redridinghoodbasket.png" id="image_rkm_hcc_gdc" class="- topic/image "
+                    alt="Little Red Riding Hoods basket"/>
+            </fig>
+            <p>"Come little Red, your Grandmother has fallen sick. Could you send over some fresh
+                bread and some medicine for her? I am sure just seeing you will make her feel
+                better." Little Red's mother says. </p>
+            <p>"Come little Red, your Grandmother has fallen sick. Could you send over some fresh
+                bread and some wine for her? I am sure just seeing you will make her feel better."
+                Little Red's mother says. </p>
+            <p>"Of course mother." Red would do anything to help her mother and Grandmother because
+                she loved them so dearly.</p>
+            <p>Little Red and her mother decided to make a fresh bread in the oven. Once it was
+                fully ready, they put all the medicine and bread in a basket, covering it with a
+                napkin to keep it warm. </p>
+            <p>Little Red and her mother decided to make a fresh sourdough in the oven. Once it was
+                fully ready, they put the wine and bread in a basket, covering it with a napkin to
+                keep it warm. </p>
+        </section>
     </body>
 </topic>

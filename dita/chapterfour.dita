@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Making it to Grandmothers house</title>
-    <body>
-        <p></p>
+    <title>Little Red Riding Hood</title>
+    <shortdesc class="- topic/shortdesc ">Little Red Riding Hood finally makes it to her
+        Grandmothers house. She shows what he brought her. But her Grandmother doesn't look right. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <section id="section_ehw_t5d_ddc">
+            <title>Chapter 3: Grandmother's House</title>
+        </section>
+        <fig id="fig_az2_pcc_gdc">
+            <title class="- topic/title ">Little Red Riding Hood and Her Grandmother</title>
+            <image href="wolfgrandmother.png" id="image_sjj_qcc_gdc" class="- topic/image "
+                alt="Little Red Riding Hood visiting her Grandmother who is actually the wolf."/>
+        </fig>
+        <p>Little Red Riding Hood enters her Grandmothers house and finds that her Grandmother in
+            bed. </p>
+        <p>"Hello Grandmother, I don't mean to wake you but I brought you some bread and medicine
+            because I hear you were sick." Little Red sits next her grandmother on the bed and
+            starts to pull out all the things out of her basket. </p>
+        <p>"Hello Grandmother, I don't mean to wake you but I brought you some bread and wine
+            because I hear you were sick." Little Red sits next her grandmother on the bed and
+            starts to pull out all the things out of her basket. </p>
+        <p>"Thank you so much for bringing all this to me, you are such a good granddaughter." The
+            Wolf dressed as the Grandmother says.</p>
+        <p>"No problem Grandmother, I would do anything for you." Little Red gets a good look at her
+            Grandmother and notices that something look different about her. "Grandmother I never
+            noticed what be ears you have."</p>
+        <p>"Oh, yes with this sickness they have a tendency to swell." </p>
+        <p>"But Grandmother I never noticed what big nose you have." Little Red responds.</p>
+        <p>"Yes, as you get older, age affects you in mysterious ways." The Wolf replies.</p>
+        <p>"But Grandmother now that I notice what big teeth and mouth you have." Little Red
+            responds. </p>
+        <p>The Wolf responds with " Well of course because I am not your Grandmother."</p>
+        <p>The Wolf responds with " Well of course because they are better to eat you with. "</p>
     </body>
 </topic>

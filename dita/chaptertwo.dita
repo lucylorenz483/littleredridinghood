@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Chapter 2: Going into the woods </title>
-    <body>
-        <p></p>
+    <title>Little Red Riding Hood</title>
+    <shortdesc class="- topic/shortdesc ">Little Red's mother makes sure she is prepared to go into
+        the forest and warns her to be careful in the woods. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <section id="section_ehw_t5d_ddc">
+            <title>Chapter 2: Little Red Goes Into The Woods</title>
+        </section>
+        <fig id="fig_zz2_jcc_gdc">
+            <title>Little Red Riding Hood and Her Mother</title>
+            <image href="redridinghoodmother.png" id="image_chm_kcc_gdc" class="- topic/image "
+                alt="The mother is putting Little Red Riding Hood on."/>
+        </fig>
+        <p>"It is starting to get late Red, so it is better if you start heading to Grandmothers
+            house now before it gets too dark." Her mother said to little Red. </p>
+        <p>Handing Little Red her basket. "Now don't forget your hood." Her mother says handing her
+            and helping her put on her red hood.</p>
+        <p>"Remember to be quite and quick through the forest. This hood should protect you and tell
+            other things in the forest to stay away." Her mother tells her while finishing tying the
+            hood around her head.</p>
+        <p>"Remember to be quite and quick through the forest. This hood should protect you and tell
+            hungry monsters that you are poisonousness." Her mother tells her while finishing tying
+            the hood around her head.</p>
+        <p>"Of course, mother I am always careful through the forest and nothing has happened yet on
+            the way to grandmothers what would be different this time?" Little Red has become very
+            confident over the year traveling to Grandmothers.  </p>
+        <p>"You just always be careful no matter what. But you must go now before it gets to dark."
+            Her mother walks her to the door and send waves her goodbye. As Little red starts her
+            journey through the forest. </p>
     </body>
 </topic>

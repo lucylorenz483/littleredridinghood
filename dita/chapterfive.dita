@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Grandma doesn't look well</title>
-    <body>
-        <p></p>
+    <title>Little Red Riding Hood</title>
+    <shortdesc class="- topic/shortdesc ">Little Red Riding. hood finds out that it is not her
+        Grandmother but it is the wolf. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <section id="section_ehw_t5d_ddc">
+            <title>Chapter 3: Grandmother Is The Wolf</title>
+        </section>
+        <fig id="fig_oc3_scc_gdc">
+            <title>Grandmother Coming Out Of The Closet</title>
+            <image href="grandmotherincloset.png" id="image_tw2_tcc_gdc"/>
+        </fig>
+        <p>Little Red Riding Hood confronts the wolf. "What do you think you are doing in my
+            Grandmothers bed? Where is my Grandmother?"</p>
+        <p>Mr. Wolf replies. " I pranked you, your Grandmother is in the closet over there." He
+            laughs at the girl because of the prank he pulled.</p>
+        <p>Little Red Riding Hood does not find it funny. "Now that you have had your fun, please
+            leave so I can take care of my grandmother."</p>
+        <p>"Of course, I will be off Little Red Riding Hood" Mr. Wolf leaves.</p>
+        <p>Little Red Riding Hood gets her Grandmother and they have a wonderful evening after the
+            wolf leaves. </p>
+        <p>Little Red Riding Hood screams but before she can leave Mr. Wolf eats her right up in one
+            gulp.</p>
+        <p>"How delicious you are Little Red Riding Hood. " Mr. Wolf responds and gets up to the
+            closet to get the Grandmother. Once he has her in his hands too he eats her as well in
+            one gulp. </p>
+        <p>"What a great dinner."</p>
+        <p>The End  </p>
     </body>
 </topic>

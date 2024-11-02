@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Chapter 3: The wolf sees her </title>
-    <body>
-        <p></p>
+    <title>Little Red Riding Hood </title>
+    <shortdesc class="- topic/shortdesc ">Little Red goes into the woods with her basket to
+        Grandmothers house and meets a wolf along the way. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <section id="section_ehw_t5d_ddc">
+            <title>Chapter 3: The Wolf </title>
+        </section>
+        <fig id="fig_ugf_mcc_gdc">
+            <title>Little Red Riding Hood and The Wolf</title>
+            <image href="redridinghoodwoods.png" id="image_ucx_mcc_gdc" class="- topic/image "
+                alt="Little Red Riding Hood enters the forest and meets the wolf"/>
+        </fig>
+        <p>Just as soon as Little Red Riding hood steps into the forest a wolf appears.</p>
+        <p>"Where are you off to Little Red Riding Hood?" The grey wolf says. </p>
+        <p>"I am simply off to my Grandmothers to drop off some bread and medicine. She has been
+            sick as of late." Little Red replied</p>
+        <p>"I am simply off to my Grandmothers to drop off some bread and wine. She has been sick as
+            of late." Little Red replied</p>
+        <p>"How kind of you!" said the Wolf. "I hope your Grandmothers house is not too far into the
+            woods, it could be dangerous at night in these woods."</p>
+        <p>"Oh, no need to worry, Mr. Wolf. Only one more mile walk. Her house stands between two
+            oak-trees." Little Red replied.</p>
+        <p>The wolf turns to himself and talks so the younger girl can not hear and says, "If I am
+            pull a trick on her, I must be careful."</p>
+        <p>The wolf turns to himself and talks so the younger girl can not hear and says, "The girl
+            looks so young and healthy she will make a wonderful and delicious dinner. With the
+            Grandmother being the appetizer. I must be careful." </p>
+        <p>The wolf turns back to the girl, "I wish you well on your journey to your
+            Grandmothers."</p>
+        <p>"Thank you Mr. Wolf." Little red riding hood replies and continues on her way to her
+            Grandmothers. </p>
     </body>
 </topic>

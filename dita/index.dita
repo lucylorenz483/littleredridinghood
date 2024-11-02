@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nlh_vt2_bdc">
-    <title>Rapunzel</title>
-    <body>
-        <p></p>
+    <title>Little Red Riding Hood</title>
+    <shortdesc class="- topic/shortdesc ">Adapted by Lucy Lorenz. </shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " translate="no" type="creator">Lucy Lorenz
+            &lt;lucyl@vt.edu></author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords "/>
+        </metadata>
+    </prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Little Red Riding Hood is a story that is entertaining for <ph
+                audience="children">children</ph><ph audience="adult">adults</ph>! Read the story
+            below:</p>
     </body>
 </topic>
