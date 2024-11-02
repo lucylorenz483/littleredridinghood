@@ -17,23 +17,26 @@
         </section>
         <fig id="fig_oc3_scc_gdc">
             <title>Grandmother Coming Out Of The Closet</title>
-            <image href="grandmotherincloset.png" id="image_tw2_tcc_gdc"/>
+            <image href="grandmotherincloset.png" id="image_tw2_tcc_gdc" class="- topic/image "
+                alt="Grandmother is coming out of the closet."/>
         </fig>
-        <p>Little Red Riding Hood confronts the wolf. "What do you think you are doing in my
-            Grandmothers bed? Where is my Grandmother?"</p>
-        <p>Mr. Wolf replies. " I pranked you, your Grandmother is in the closet over there." He
-            laughs at the girl because of the prank he pulled.</p>
-        <p>Little Red Riding Hood does not find it funny. "Now that you have had your fun, please
-            leave so I can take care of my grandmother."</p>
-        <p>"Of course, I will be off Little Red Riding Hood" Mr. Wolf leaves.</p>
-        <p>Little Red Riding Hood gets her Grandmother and they have a wonderful evening after the
-            wolf leaves. </p>
-        <p>Little Red Riding Hood screams but before she can leave Mr. Wolf eats her right up in one
-            gulp.</p>
-        <p>"How delicious you are Little Red Riding Hood. " Mr. Wolf responds and gets up to the
-            closet to get the Grandmother. Once he has her in his hands too he eats her as well in
-            one gulp. </p>
-        <p>"What a great dinner."</p>
+        <p class="- topic/p " audience="childern">Little Red Riding Hood confronts the wolf. "What
+            do you think you are doing in my Grandmothers bed? Where is my Grandmother?"</p>
+        <p class="- topic/p " audience="childern">Mr. Wolf replies. " I pranked you, your
+            Grandmother is in the closet over there." He laughs at the girl because of the prank he
+            pulled.</p>
+        <p class="- topic/p " audience="childern">Little Red Riding Hood does not find it funny.
+            "Now that you have had your fun, please leave so I can take care of my grandmother."</p>
+        <p class="- topic/p " audience="childern">"Of course, I will be off Little Red Riding Hood"
+            Mr. Wolf leaves.</p>
+        <p class="- topic/p " audience="childern">Little Red Riding Hood gets her Grandmother and
+            they have a wonderful evening after the wolf leaves. </p>
+        <p class="- topic/p " audience="adults">Little Red Riding Hood screams but before she can
+            leave Mr. Wolf eats her right up in one gulp.</p>
+        <p class="- topic/p " audience="adults">"How delicious you are Little Red Riding Hood. " Mr.
+            Wolf responds and gets up to the closet to get the Grandmother. Once he has her in his
+            hands too he eats her as well in one gulp. </p>
+        <p class="- topic/p " audience="adults">"What a great dinner."</p>
         <p>The End  </p>
     </body>
 </topic>

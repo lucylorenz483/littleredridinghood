@@ -33,12 +33,12 @@
                 Little Red's mother says. </p>
             <p>"Of course mother." Red would do anything to help her mother and Grandmother because
                 she loved them so dearly.</p>
-            <p>Little Red and her mother decided to make a fresh bread in the oven. Once it was
-                fully ready, they put all the medicine and bread in a basket, covering it with a
-                napkin to keep it warm. </p>
-            <p>Little Red and her mother decided to make a fresh sourdough in the oven. Once it was
-                fully ready, they put the wine and bread in a basket, covering it with a napkin to
-                keep it warm. </p>
+            <p class="- topic/p " audience="childern">Little Red and her mother decided to make a
+                fresh bread in the oven. Once it was fully ready, they put all the medicine and
+                bread in a basket, covering it with a napkin to keep it warm. </p>
+            <p class="- topic/p " audience="adults">Little Red and her mother decided to make a
+                fresh sourdough in the oven. Once it was fully ready, they put the wine and bread in
+                a basket, covering it with a napkin to keep it warm. </p>
         </section>
     </body>
 </topic>

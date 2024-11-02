@@ -22,19 +22,20 @@
         </fig>
         <p>Just as soon as Little Red Riding hood steps into the forest a wolf appears.</p>
         <p>"Where are you off to Little Red Riding Hood?" The grey wolf says. </p>
-        <p>"I am simply off to my Grandmothers to drop off some bread and medicine. She has been
-            sick as of late." Little Red replied</p>
-        <p>"I am simply off to my Grandmothers to drop off some bread and wine. She has been sick as
-            of late." Little Red replied</p>
+        <p audience="childern">"I am simply off to my Grandmothers to drop off some bread and
+            medicine. She has been sick as of late." Little Red replied</p>
+        <p class="- topic/p " audience="adults">"I am simply off to my Grandmothers to drop off some
+            bread and wine. She has been sick as of late." Little Red replied</p>
         <p>"How kind of you!" said the Wolf. "I hope your Grandmothers house is not too far into the
             woods, it could be dangerous at night in these woods."</p>
         <p>"Oh, no need to worry, Mr. Wolf. Only one more mile walk. Her house stands between two
             oak-trees." Little Red replied.</p>
-        <p>The wolf turns to himself and talks so the younger girl can not hear and says, "If I am
-            pull a trick on her, I must be careful."</p>
-        <p>The wolf turns to himself and talks so the younger girl can not hear and says, "The girl
-            looks so young and healthy she will make a wonderful and delicious dinner. With the
-            Grandmother being the appetizer. I must be careful." </p>
+        <p class="- topic/p " audience="childern">The wolf turns to himself and talks so the younger
+            girl can not hear and says, "If I am pull a trick on her, I must be careful."</p>
+        <p class="- topic/p " audience="adults">The wolf turns to himself and talks so the younger
+            girl can not hear and says, "The girl looks so young and healthy she will make a
+            wonderful and delicious dinner. With the Grandmother being the appetizer. I must be
+            careful." </p>
         <p>The wolf turns back to the girl, "I wish you well on your journey to your
             Grandmothers."</p>
         <p>"Thank you Mr. Wolf." Little red riding hood replies and continues on her way to her
